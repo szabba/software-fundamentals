@@ -3,6 +3,6 @@
 Is a book about logic, program verification, formal semantics and types.
 All of it's mathematical content is automaticaly verified by the proof
 assistant Coq. You can grab it online
-(here)[http://cis.upenn.edu/~bcpierce/sf/].
+[here](http://cis.upenn.edu/~bcpierce/sf/).
 
 I'm working throuh it and keeping track of my progress here.
