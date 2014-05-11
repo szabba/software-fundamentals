@@ -1,0 +1,23 @@
+# Vim temporary files
+*.sw?
+
+# Book
+*.html
+*.js
+*.css
+*.gif
+*.map
+*.jpg
+
+# Coq generated files
+*.glob
+*.log
+*.vo
+
+# ML Code
+*.ml
+*.mli
+
+# Buildtools
+Makefile
+.depend
